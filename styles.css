@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(7, 8, 42);
+    
+  }
+  h1 {
+    color: rgb(21, 255, 196);
+    text-align: center;
+    font-family: calibri;
+    font-size: 50;
+    line-height: 25%;
+  }
+  p {
+    color: rgb(230, 230, 230);
+    font-family: calibri;
+    text-align: center;
+    line-height: 105%;
+  }
+  h2 {
+    color: rgb(230, 230, 230);
+    text-align: center;
+    font-family: helvetica;
+    line-height: 40%;
+    font-weight: 200;
+  }
+  h3 {
+    color: rgb(230, 230, 230);
+    text-align: center;
+    font-family: helvetica;
+    line-height: 25%;
+  }
